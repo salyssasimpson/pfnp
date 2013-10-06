@@ -9,6 +9,12 @@
 		</p>
 		<div id="skills">
 			<h2>My Skills</h2>
+			<ul>
+				<% @skills.each do |skill| %>
+					<li> <%= link_to skill.name, skill %>
+					</li>
+				<% end %>
+			</ul>
 		</div>
 	</div>
 </div>
