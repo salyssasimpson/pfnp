@@ -13,6 +13,13 @@
       <p>
         He was named as the sixth richest fictional character in the 2006 Forbes Fictional 15 list on its website and the ninth richest in 2011.
       </p>
+      <div id="spaces">
+        <% @spaces.each do |space| %>
+        <h4>
+        <%= space.name %>: $<%= space.cost %>: <%= space.occupied %></h4>
+        <% end %>
+
+      </div>
       <a href="https://facebook.com">
         <%= image_tag "social-facebook.png" %>
       </a>
