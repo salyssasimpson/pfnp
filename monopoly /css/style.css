@@ -1,0 +1,69 @@
+body {
+	font-size: 18px;
+	font-family: "Helvetica", arial, sans-serif;
+	background: url("../images/free-background.jpg") no-repeat;
+	background-size: 100%;
+
+}
+
+#main {
+	background-color: #33FFCC;
+	width: 50%;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 20px 10px;
+	border: 3px black solid; 
+
+}
+
+#contact {
+	background-color: #7f8c8d;
+	width: 50%;
+	margin: auto;
+	padding: 20px 10px;
+	border: 3px black solid; 
+}
+
+header {
+	background-color: #33CCFF;
+	font-family: "Copperplate", serif;
+	text-align: center;
+	border: 2px black dotted;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+h1 {
+	font-size: 48px;
+	border-top: 2px black solid;
+	border-bottom: 2px black solid;
+	margin: 10px 0;
+	text-transform: uppercase;
+}
+h2 {font-size: 32px;}
+
+h3 {
+	font-size: 20px;
+	padding: 10px;
+	text-align: center;
+	text-transform: uppercase;
+	}
+p {
+	margin-bottom: 10px;
+	line-height: .9;
+}
+
+a {
+	text-decoration: none;
+	color: #8e44ad;
+}
+
+a:hover {
+	color: #f1c40f;
+}
+
+p:hover {
+	background-color: #2980b9;
+
+}

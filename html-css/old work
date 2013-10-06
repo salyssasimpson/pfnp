@@ -1,0 +1,42 @@
+old work
+
+
+<h1>Hello World PFNP</h1>
+<h2>this is a programing class</h2>
+<h3>banana</h3>
+<h4>grams</h4>
+<h5>i'm not very good at this yet</h5>
+<img src="http://placekitten.com/200/200" alt="this is a kitten">
+<img src="http://placekitten.com/200/200" alt="this is a kitten">
+<em>this is emphasied text</em>
+<strong>this is bolded strong text</strong>
+<code>alert("hellow world");</code>
+<code>just plain text</code>
+
+<!-- this is a comment in the code -->
+
+<p> this is a little bit of paragraph text i want another sentence and one more to make it interesting Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+
+<br>
+
+<pre> This is pre-formatted text</pre>
+<hr>
+<h2>Grocery shopping list</h2>
+<ul>
+	<li>bananas</li>
+	<li>cream</li>
+	<li>pie</li>
+	<li>m and m's</li>
+</ul>
+
+<h2>Cool things on TV</h2>
+<ol>
+	<li>west wing</li>
+	<li>house of cards</li>
+	<li>orange is the new black</li>
+</ol>
